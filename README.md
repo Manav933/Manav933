@@ -53,18 +53,6 @@
 
 ---
 
-## 🚀 Highlight Projects
-
-| 🌟 Project | 🔧 Tech Stack | 🧩 Description |
-|-----------|---------------|----------------|
-| `Busify` | React, Node.js, Express | Real-time bus booking with route search & seat selection |
-| `QR-Etto` | HTML, CSS, JS | Custom QR generator with style controls (colors, logos, patterns) |
-| `Payroll System` | Django, SQLite | Employee management and payroll automation platform |
-| `Excel Recorder` | Python, Tkinter | GUI-based auto Excel logger for invoice processing |
-| `OS Simulator` | Flask, HTML, CSS | Learn OS concepts interactively with algorithm visualizers |
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
